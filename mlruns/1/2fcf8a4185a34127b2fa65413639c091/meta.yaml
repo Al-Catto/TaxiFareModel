@@ -1,0 +1,15 @@
+artifact_uri: file:///home/alcatto/code/Al-Catto/TaxiFareModel/mlruns/1/2fcf8a4185a34127b2fa65413639c091/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 2fcf8a4185a34127b2fa65413639c091
+run_uuid: 2fcf8a4185a34127b2fa65413639c091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627743661379
+status: 1
+tags: []
+user_id: unknown

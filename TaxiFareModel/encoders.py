@@ -1,5 +1,6 @@
 from sklearn.base import BaseEstimator, TransformerMixin
 from utils import haversine_vectorized
+import pandas as pd
 
 class TimeFeaturesEncoder(BaseEstimator, TransformerMixin):
     """
@@ -59,4 +60,4 @@ class DistanceTransformer(BaseEstimator, TransformerMixin):
 
 
 if __name__ == '__main__':
-    df = get_data()
+    
