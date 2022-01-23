@@ -101,7 +101,7 @@ class Trainer(object):
 
 if __name__ == "__main__":
     # Get and clean data
-    N = 10000
+    N = 100
     df = get_data(nrows=N)
     df = clean_data(df)
     y = df["fare_amount"]
